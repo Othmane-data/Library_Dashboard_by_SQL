@@ -19,7 +19,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ### Database Setup
 
- ![](erd.database library.pgerd)
+ ![](library_erd.png)
  
 ___Table Creation:___ Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
 
